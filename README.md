@@ -2,7 +2,7 @@
 
 |Day | Date  | What I learnt |
 | ------- | ------------- | ------------- |
-| Day 1 | 21/01/2022 |  |
+| Day 1 | 21/01/2022 | https://shajith.hashnode.dev/frontend-to-devops-committing-my-journey |
 | Day 2 | 22/01/2022 |  |
 | Day 3 | 23/01/2022 |  |
 | Day 4 | 24/01/2022 |  |
