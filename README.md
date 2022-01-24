@@ -5,7 +5,7 @@
 | Day 1 | 21/01/2022 | https://shajith.hashnode.dev/frontend-to-devops-committing-my-journey |
 | Day 2 | 22/01/2022 | https://shajith.hashnode.dev/dockers-and-containers |
 | Day 3 | 23/01/2022 | https://shajith.hashnode.dev/docker-images-and-docker-containers |
-| Day 4 | 24/01/2022 |  |
+| Day 4 | 24/01/2022 | https://shajith.hashnode.dev/hosting-a-static-content-in-nginx-docker |
 | Day 5 | 25/01/2022 |  |
 | Day 6 | 26/01/2022 |  |
 | Day 7 | 27/01/2022 |  |
