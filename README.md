@@ -8,7 +8,7 @@
 | Day 4 | 24/01/2022 | https://shajith.hashnode.dev/hosting-a-static-content-in-nginx-docker |
 | Day 5 | 25/01/2022 | https://shajith.hashnode.dev/committing-to-our-existing-image-and-pushing-it-to-dockerhub |
 | Day 6 | 26/01/2022 | https://shajith.hashnode.dev/creating-our-own-image-using-dockerfile |
-| Day 7 | 27/01/2022 |  |
+| Day 7 | 27/01/2022 | https://shajith.hashnode.dev/dockerfile-explained |
 | Day 8 | 28/01/2022 |  |
 | Day 9 | 29/01/2022 |  |
 | Day 10 | 30/01/2022 |  |
