@@ -11,7 +11,7 @@
 | Day 7 | 27/01/2022 | https://shajith.hashnode.dev/dockerfile-explained |
 | Day 8 | 28/01/2022 | https://shajith.hashnode.dev/containerizing-an-angular-app |
 | Day 9 | 29/01/2022 | https://shajith.hashnode.dev/improving-the-image-build |
-| Day 10 | 30/01/2022 |  |
+| Day 10 | 30/01/2022 | https://shajith.hashnode.dev/optimizing-the-size-of-the-image |
 | Day 11 | 31/01/2022 |  |
 | Day 12 | 01/02/2022 |  |
 | Day 13 | 02/02/2022 |  |
