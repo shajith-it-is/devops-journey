@@ -1,7 +1,7 @@
 # Devops-journey
 
 |Day | Date  | What I learnt |
-| ------- | ------------- | ------------- |
+| --------- | ------------- | ------------- |
 | Day 1 | 21/01/2022 | https://shajith.hashnode.dev/frontend-to-devops-committing-my-journey |
 | Day 2 | 22/01/2022 | https://shajith.hashnode.dev/dockers-and-containers |
 | Day 3 | 23/01/2022 | https://shajith.hashnode.dev/docker-images-and-docker-containers |
@@ -12,7 +12,7 @@
 | Day 8 | 28/01/2022 | https://shajith.hashnode.dev/containerizing-an-angular-app |
 | Day 9 | 29/01/2022 | https://shajith.hashnode.dev/improving-the-image-build |
 | Day 10 | 30/01/2022 | https://shajith.hashnode.dev/optimizing-the-size-of-the-image |
-| Day 11 | 31/01/2022 |  |
+| Day 11 | 31/01/2022 | https://shajith.hashnode.dev/container-orchestration |
 | Day 12 | 01/02/2022 |  |
 | Day 13 | 02/02/2022 |  |
 | Day 14 | 03/02/2022 |  |
