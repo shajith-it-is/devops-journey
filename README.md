@@ -13,7 +13,7 @@
 | Day 9 | 29/01/2022 | https://shajith.hashnode.dev/improving-the-image-build |
 | Day 10 | 30/01/2022 | https://shajith.hashnode.dev/optimizing-the-size-of-the-image |
 | Day 11 | 31/01/2022 | https://shajith.hashnode.dev/container-orchestration |
-| Day 12 | 01/02/2022 |  |
+| Day 12 | 01/02/2022 | https://shajith.hashnode.dev/introduction-to-kubernetes |
 | Day 13 | 02/02/2022 |  |
 | Day 14 | 03/02/2022 |  |
 | Day 15 | 04/02/2022 |  |
