@@ -14,10 +14,8 @@
 | Blog 10 | 30/01/2022 | https://shajith.hashnode.dev/optimizing-the-size-of-the-image |
 | Blog 11 | 31/01/2022 | https://shajith.hashnode.dev/container-orchestration |
 | Blog 12 | 01/02/2022 | https://shajith.hashnode.dev/introduction-to-kubernetes |
-| Blog 13 | 02/02/2022 | No Blog Written |
-| Blog 13 | 03/02/2022 | No Blog Written |
 | Blog 13 | 04/02/2022 | https://shajith.hashnode.dev/terms-used-in-kubernetes-explained |
-| Blog 14 | 05/02/2022 | No Blog Written |
+| Blog 14 | 11/03/2022 | https://shajith.hashnode.dev/kubernetes-workflow-in-short |
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Shajith_it_is.devops-journey)
